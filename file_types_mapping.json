@@ -1,0 +1,35 @@
+{
+  "file_types": {
+    "documents": ["doc", "docx", "txt", "pdf", "rtf", "odt", "pages", "tex", "wpd"],
+    "music": ["mp3", "wav", "flac", "aif", "m3u", "m4a", "mid", "ogg", "wma"],
+    "videos": ["mp4", "avi", "mkv", "3gp", "asf", "flv", "m4v", "mov", "mpg", "srt", "swf", "ts", "vob", "wmv"],
+    "images": ["jpg", "jpeg", "png", "gif", "bmp", "dcm", "dds", "djvu", "heic", "psd", "tga", "tif"],
+    "archives": ["zip", "rar", "7z", "cbr", "deb", "gz", "rpm", "tar.gz", "xapk", "zip", "zipx"],
+    "spreadsheets": ["xls", "xlsx", "csv"],
+    "presentations": ["ppt", "pptx"],
+    "code": ["py", "java", "cpp", "html", "css", "js", "c", "class", "config", "cs", "h", "kt", "lua", "m", "pl", "swift", "vb", "yml"],
+    "audio": ["mp3", "wav", "flac", "aif", "m3u", "m4a", "mid", "ogg", "wma"],
+    "video": ["mp4", "avi", "mkv", "3gp", "asf", "flv", "m4v", "mov", "mpg", "srt", "swf", "ts", "vob", "wmv"],
+    "3d_images": ["3dm", "3ds", "blend", "dae", "fbx", "max", "obj"],
+    "raster_images": ["jpg", "jpeg", "png", "gif", "bmp", "dcm", "dds", "djvu", "heic", "psd", "tga", "tif"],
+    "vector_images": ["ai", "cdr", "emf", "eps", "ps", "sketch", "svg", "vsdx"],
+    "page_layout": ["indd", "oxps", "pdf", "pmd", "pub", "qxp", "xps"],
+    "database": ["accdb", "crypt14", "db", "mdb", "odb", "pdb", "sql", "sqlite"],
+    "executable": ["apk", "app", "bat", "bin", "cmd", "com", "exe", "ipa", "jar", "run", "sh"],
+    "game": ["bin", "dem", "gam", "gba", "nes", "pak", "pkg", "rom", "sav"],
+    "cad": ["dgn", "dwg", "dxf", "step", "stl", "stp"],
+    "gis": ["gpx", "kml", "kmz", "osm"],
+    "web": ["asp", "aspx", "cer", "cfm", "csr", "css", "html", "js", "json", "jsp", "php", "xhtml"],
+    "plugin": ["crx", "ecf", "plugin", "safariextz", "xpi"],
+    "font": ["fnt", "otf", "ttf", "woff", "woff2"],
+    "system": ["ani", "cab", "cpl", "cur", "deskthemepack", "dll", "dmp", "drv", "icns", "ico", "lnk", "reg", "sys"],
+    "settings": ["cfg", "ini", "pkg", "prf", "set"],
+    "encoded": ["asc", "bin", "enc", "mim", "uue"],
+    "compressed": ["7z", "cbr", "deb", "gz", "pkg", "rar", "rpm", "tar.gz", "xapk", "zip", "zipx"],
+    "disk_image": ["bin", "dmg", "img", "iso", "mdf", "rom", "vcd"],
+    "developer": ["appx", "bat", "cmd", "cpp", "cs", "html", "java", "js", "json", "lua", "pl", "py", "sh", "sln", "swift", "vb", "vcxproj", "xcodeproj", "yml"],
+    "backup": ["abk", "arc", "bak", "tmp"],
+    "misc": ["crdownload", "ics", "msi", "nomedia", "part", "pkpass", "torrent"]
+  }
+}
+
